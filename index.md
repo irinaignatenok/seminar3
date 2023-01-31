@@ -46,4 +46,4 @@
 
 >git branch **<branch_name>** - создать новую ветку с именем branch_name
 
-> **git branch -d <branch_name>
+> git add. используем до git. git commit -am
