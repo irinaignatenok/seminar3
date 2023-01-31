@@ -44,6 +44,6 @@
 
 ## Основные команды Семинара 2
 
->git branch **<branch_name>** - создать новую ветку с именем branch_name
+> **git branch <branch_name>** - создать новую ветку с именем branch_name
 
-> git add. используем до git. git commit -am
+> **git add** - добавить файл или файлы к следующему коммиту
